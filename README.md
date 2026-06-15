@@ -92,7 +92,3 @@ The dashboard helps stakeholders identify accident patterns and supports data-dr
 - Urban areas contribute significantly to total accidents.
 - Single carriageways show the highest accident frequency.
 - Accident patterns vary based on road surface and lighting conditions.
-
-LinkedIn: www.linkedin.com/in/vaishnavi-shetty-b65a03285
-
-GitHub: https://github.com/vaishnavi-shetty1
